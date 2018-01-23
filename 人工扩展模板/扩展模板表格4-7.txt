@@ -1,0 +1,23 @@
+Table 7: Overview of Treatment-emergent Adverse Events; All Treated Analysis Set(原safety表table1)
+Any TEAE||Total||123 (99.2%)----An overview of TEAEs by treatment received during the study is presented in Table 1.All but 1 subject had 1 or more reported TEAE (99%).
+原模板:
+&row_1_1; overview of &row_1_1; by treatment received during the study is presented in Table 1.All but 1 subject had 1 or more reported &row_1_1; ( &data_1_%; ) .----Any TEAE||Total||123 (99.2%)----An overview of TEAEs by treatment received during the study is presented in Table 1.All but 1 subject had 1 or more reported TEAE (99%).
+扩展:
+无
+
+
+Table 6: Time to Disease Progression based on IRC Assessment; All Treated Analysis Set (Study 54767414MMY2002)(原efficy表table4)
+Time to disease progression|Number of events (%)||16 mg/kg||73 (68.9%)----In the 16 mg/kg group, 69% of subjects had experienced disease progression at the time of the primary analysis.
+原模板：
+In the &column_1_1; group, &data_1_%; &row_1_1; subjects had experienced &row_1_1; the &row_1_1; the primary analysis.----Time to disease progression|Number of events (%)||16 mg/kg||73 (68.9%)----In the 16 mg/kg group, 69% of subjects had experienced disease progression at the time of the primary analysis.
+扩展：
+无
+
+Kaplan-Meier estimate (months)|Median (95% CI)||16 mg/kg||3.71 (2.79, 5.39)----The median time to progression was 3.7 months.
+原模板：
+The &row_1_2; time to progression was 3.7 &row_1_1;----Kaplan-Meier estimate (months)|Median (95% CI)||16 mg/kg||3.71 (2.79, 5.39)----The median time to progression was 3.7 months.
+扩展：
+无
+
+Table5:Duration of Response based on IRC Assessment; Responders in All Treated Analysis Set (Study 54767414MMY2002)(原efficy表table2)
+无一个三元组的

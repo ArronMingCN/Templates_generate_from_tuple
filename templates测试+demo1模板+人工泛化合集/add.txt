@@ -1,0 +1,40 @@
+The &row_1_2; &row_1_1; received was &data_1_Float; cycles ( 1 cycle = 28 days ) .----Number of treatment cycles|Median||8 mg/kg||Data_mada----None
+The &row_1_2; &row_1_1; received was &data_1_Float; cycles ( 1 cycle = 28 days ) .----Number of treatment cycles|Median||Total ||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|At least 1 cycles||16 mg/kg||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|At least 2 cycles||16 mg/kg||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|At least 3 cycles||16 mg/kg||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|At least 4 cycles||16 mg/kg||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|At least 5 cycles||16 mg/kg||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|At least 7 cycles||16 mg/kg||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|Mean (SD)||16 mg/kg||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|Median||16 mg/kg||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|Range ||16 mg/kg||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|At least 1 cycles||8 mg/kg||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|At least 2 cycles||8 mg/kg||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|At least 3 cycles||8 mg/kg||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|At least 4 cycles||8 mg/kg||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|At least 5 cycles||8 mg/kg||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|At least 7 cycles||8 mg/kg||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|Mean (SD)||8 mg/kg||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|Median||8 mg/kg||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|Range ||8 mg/kg||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|At least 1 cycles||Total||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|At least 2 cycles||Total||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|At least 3 cycles||Total||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|At least 4 cycles||Total||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|At least 5 cycles||Total||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|At least 7 cycles||Total||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|Mean (SD)||Total||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|Median||Total||Data_mada----None
+Forty subjects ( &data_1_%; ) received &row_1_2; of daratumumab treatment.----Number of treatment cycles|Range ||Total||Data_mada----None
+Eleven subjects ( &data_1_%; ) had &row_1_1;----Subjects with major protocol deviation||8 mg/kg ||Data_mada----None
+Eleven subjects ( &data_1_%; ) had &row_1_1;----Subjects with major protocol deviation||16 mg/kg||Data_mada----None
+Five subjects ( &data_1_%; ) &row_1_1; due to a TEAE.----Discontinued from treatment|Progressive disease||16 mg/kg||Data_made----None
+Five subjects ( &data_1_%; ) &row_1_1; due to a TEAE.----Discontinued from treatment|Withdrawal of consent||16 mg/kg||Data_made----None
+Five subjects ( &data_1_%; ) &row_1_1; due to a TEAE.----Discontinued from treatment|Death||16 mg/kg||Data_made----None
+Five subjects ( &data_1_%; ) &row_1_1; due to a TEAE.----Discontinued from treatment|Progressive disease||8 mg/kg||Data_made----None
+Five subjects ( &data_1_%; ) &row_1_1; due to a TEAE.----Discontinued from treatment|Withdrawal of consent||8 mg/kg||Data_made----None
+Five subjects ( &data_1_%; ) &row_1_1; due to a TEAE.----Discontinued from treatment|Death||8 mg/kg||Data_made----None
+Five subjects ( &data_1_%; ) &row_1_1; due to a TEAE.----Discontinued from treatment|Progressive disease||Total||Data_made----None
+Five subjects ( &data_1_%; ) &row_1_1; due to a TEAE.----Discontinued from treatment|Withdrawal of consent||Total||Data_made----None
+Five subjects ( &data_1_%; ) &row_1_1; due to a TEAE.----Discontinued from treatment|Death||Total||Data_made----None

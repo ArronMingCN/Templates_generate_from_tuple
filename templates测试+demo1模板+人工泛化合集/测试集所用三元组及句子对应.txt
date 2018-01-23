@@ -1,0 +1,44 @@
+Table 1: Subject Disposition - All Treated Analysis Set(原subject表table1)
+Discontinued from treatment||16 mg/kg||90 (84.9%)|||Discontinued from treatment|Progressive disease||16 mg/kg||82 (77.4%)----In the 16 mg/kg group, 90 of 106 subjects (85%) discontinued treatment; the majority of treatment discontinuations (82 subjects; 77%) were due to progressive disease.
+Discontinued from treatment|Adverse event||16 mg/kg||5 (4.7%)----Five subjects (5%) discontinued from treatment due to a TEAE.
+
+Table 2: Subjects with Major Protocol Deviation; All Treated Analysis Set(原subject表table6)
+Subjects with major protocol deviation||Total||11 (8.9%)----Eleven subjects (9%) had major protocol deviations.
+Subjects with major protocol deviation|Entered but did not satisfy criteria||Total||7 (5.6%)----Seven (6%) subjects entered the study but did not satisfy the inclusion/exclusion criteria (see brief narratives below).
+Subjects with major protocol deviation|Received wrong treatment or incorrect dose||Total||3 (2.4%)----Three subjects (2%) received wrong treatment.
+Subjects with major protocol deviation|Other*||16 mg/kg||1 (0.9%)----One subject, in the 16 mg/kg group was considered to have had a major protocol deviation captured as “other” for not having an ECG completed at screening.
+
+Table 3: Study Drug Expose; All Treated Analysis Set(原subject表table 7)
+Duration of treatment (months)|Median||16 mg/kg||2.825|||Duration of treatment (months)|Median||16 mg/kg||2.825----As of the clinical cut-off date, the median duration of treatment for the 16 mg/kg group was 2.8?months, with the longest treatment duration being 14.2 months (Table 7).
+Number of treatment cycles|Median||16 mg/kg||4.0----The median number of treatment cycles received was 4.0 cycles (1 cycle = 28 days).
+Number of treatment cycles|At least 6 cycles||16 mg/kg||40 (37.7%)----Forty subjects (38%) received at least 6 cycles of daratumumab treatment.
+Relative dose intensity (%)|Median||Total||100.01----For all treated subjects, the median relative dose intensity was 100% of the target dose for both treatment groups (8 and 16 mg/kg).
+
+Table 4: Progression Free Survival; All Treated Analysis Set(原efficy表table7)
+Progression-free survival|Number of events (%)||16 mg/kg||75 (70.8%)----In the 16 mg/kg group, at the time of the primary analysis, 71% of subjects had PFS events (progressed or died), based on IRC assessment (Table 6).
+Kaplan-Meier estimate (months)|Median (95% CI)||16 mg/kg||3.65 (2.76, 4.63)----At the time of the primary analysis, the median PFS (Kaplan-Meier estimate) was 3.7 months (95% CI: 2.8, 4.6).
+6-month progression free survival rate % (95% CI)||16 mg/kg||36.7 (27.0, 46.4)----The 6-month PFS rate was 37% (95% CI: 27%, 46%).
+12-month progression free survival rate % (95% CI)||16 mg/kg||18.3 (10.7, 27.5)----The 12-month PFS rate was 18% (95% CI: 11%, 28%) for the 16 mg/kg group.
+
+Table5:Duration of Response based on IRC Assessment; Responders in All Treated Analysis Set (Study 54767414MMY2002)(原efficy表table2)
+Kaplan-Meier estimate (months)|Median (95% CI)||16 mg/kg||7.4 (5.5, NE)|||Duration of response|Number of events (%)||16 mg/kg||17 (54.8%)----After a median duration of follow-up of 9.3 months (Attachment TSIFUP01), the median duration of response was 7.4?months, and among the 31 confirmed responders in the 16 mg/kg group, 17 (55%) have progressed, based on IRC assessment.
+6-month duration of response rate % (95% CI)||16 mg/kg||59.2 (39.3, 74.5)|||12-month duration of response rate % (95% CI)||16 mg/kg||37.8 (19.6, 55.9)----Based on the Kaplan-Meier estimate, 59% (95% CI: 39%, 75%) of the responders remained progression free and alive at 6?months and 38% (95% CI: 20%, 56%) of the responders remained progression free and alive at the 12 months (Table 2).
+
+Table 6: Time to Disease Progression based on IRC Assessment; All Treated Analysis Set (Study 54767414MMY2002)(原efficy表table4)
+Time to disease progression|Number of events (%)||16 mg/kg||73 (68.9%)----In the 16 mg/kg group, 69% of subjects had experienced disease progression at the time of the primary analysis.
+Kaplan-Meier estimate (months)|Median (95% CI)||16 mg/kg||3.71 (2.79, 5.39)----The median time to progression was 3.7?months.
+6-month disease progression free rate % (95% CI)||16 mg/kg||37.4 (27.6, 47.2)|||12-month disease progression free rate % (95% CI)||16 mg/kg||18.7 (11.0, 28.0)----Based on the Kaplan Meier estimate, 37% (95% CI: 28%, 47%) of subjects were progression-free and at 6?months and 19% (95% CI: 11%, 28%) of subjects were progression-free at 12 months (Table 4).
+
+Table 7: Overview of Treatment-emergent Adverse Events; All Treated Analysis Set(原safety表table1)
+Any TEAE||Total||123 (99.2%)----An overview of TEAEs by treatment received during the study is presented in Table 1.All but 1 subject had 1 or more reported TEAE (99%).
+Any TEAE|Drug-related||Total||95 (76.6%)|||Any TEAE|Drug-related||8 mg/kg||14 (77.8%)----Of all treated subjects, 95 (77%) had TEAEs that were considered by the investigator to be related to daratumumab; 14 subjects (78%) in the 8?mg/kg and 81 subjects (76%) in the 16 mg/kg group.
+Any serious TEAE||Total||38 (30.6%)|||Any serious TEAE|Drug-related||Total||8 (6.5%)----Of all treated subjects, 38 (31%) subjects experienced 1 or more serious TEAEs; 8?subjects?(7%) had serious TEAEs that were considered by the investigator to be drugrelated.
+Any serious TEAE||8 mg/kg||6 (33.3%)|||Any serious TEAE||16 mg/kg|Total||32 (30.2%)----Six subjects (33%) in the 8 mg/kg group and 32?subjects (30%) in the 16 mg/kg group experienced 1 or more serious TEAEs.
+Any serious TEAE|Drug-related||8 mg/kg||0|||Any serious TEAE|Drug-related||16 mg/kg|Total||8 (7.5%)----No subject in the 8 mg/kg group and 8 subjects (8%) in the 16 mg/kg group had serious TEAEs considered by the investigator to be related to daratumumab.
+
+
+
+
+
+
+

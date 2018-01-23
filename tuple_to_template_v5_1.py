@@ -126,7 +126,7 @@ def template_generize(tuple_line,sentence_line,tuple_position):
     return sentence_line
 
 def handle_tuple_element3(ele):
-    #初步发现元组第六个元素具有类似 80 (NE,74.2%)的特征，将其分离
+    #初步发现元组第三个元素具有类似 80 (NE,74.2%)的特征，将其分离
     #python3的四舍五入0.5算作0
     ele=ele.strip()
     cut_blank=re.compile(" ")
@@ -243,31 +243,6 @@ def handle_tuple_column(key,sentence_line,level,tuple_position):
         # 这里会多一个空格出来
     return sentence_aftercolumn
 
-# def handle_tuple_data(keylist,sentence_line,level,tuple_position):
-#     list_a = sentence_line.split()
-#     ele_nums = keylist
-#
-#     print("(" + str(ele_nums[0]) + ")")
-#     for i in range(len(list_a)):
-#         if list_a[i] == str(ele_nums[0]) or list_a[i] == "(" + str(ele_nums[0]) + ")":
-#             print(list_a[i])
-#             if "%" in str(ele_nums[0]):
-#                 list_a[i] = "&data_" + str(tuple_position) + "_" + "%" + ";"
-#             elif "." in str(ele_nums[0]):
-#                 list_a[i] = "&data_" + str(tuple_position) + "_" + "Float" + ";"
-#             elif str(ele_nums[0]).isdigit():
-#                 list_a[i] = "&data_" + str(tuple_position) + "_" + "Int" + ";"
-#             elif str(ele_nums[0]).isalpha():
-#                 list_a[i] = "&data_" + str(tuple_position) + "_" + "Str" + ";"
-#             else:
-#                 list_a[i] = "&data_" + str(tuple_position) + "_" + "Other" + ";"
-#
-#     sentence_afterData = ""
-#     for i in range(len(list_a)):
-#         sentence_afterData += list_a[i]
-#         sentence_afterData += ' '
-#         # 这里会多一个空格出来
-#     return sentence_afterData
 
 def handle_tuple_data(keylist,sentence_line,level,tuple_position):
     list_a = sentence_line.split()
@@ -319,30 +294,24 @@ def cutEleIntoList(ele):
     return list
 
 if __name__ == "__main__":
-    t_s = "tuple-to-sentence_1/efficy-tupletosentence.txt"
-    '''
-    fdir_one = "D:/AI Writing 2018 @YaZhi/one_element_template.txt"
-    fdir_two = "D:/AI Writing 2018 @YaZhi/two_element_template.txt"
-    fdir_three = "D:/AI Writing 2018 @YaZhi/three_element_template.txt"
-    fdir_four = "D:/AI Writing 2018 @YaZhi/four_element_template.txt"
-    fdir_other = "D:/AI Writing 2018 @YaZhi/other_element_template.txt"
-    t_ans = "D:/AI Writing 2018 @YaZhi/new_form_data_ans.txt"
-    '''
-    prefix="templates_1/"
-    fdir_one = prefix+"one_element_template.txt"
-    fdir_two = prefix+"two_element_template.txt"
-    fdir_three = prefix+"three_element_template.txt"
-    fdir_four = prefix+"four_element_template.txt"
-    fdir_other = prefix+"other_element_template.txt"
-    t_ans = "new_form_data_ans.txt"
-    f_one = open(fdir_one,"a",encoding="utf-8")
-    f_two = open(fdir_two,"a",encoding="utf-8")
-    f_three = open(fdir_three,"a",encoding="utf-8")
-    f_four = open(fdir_four,"a",encoding="utf-8")
-    f_other = open(fdir_other,"a",encoding="utf-8")
-    f_t_ans = open(t_ans, "w",encoding='utf-8')
 
-    open_text(t_s)
+    # t_s = "tuple-to-sentence_1/efficy-tupletosentence.txt"
+    # prefix="templates_1/"
+    # fdir_one = prefix+"one_element_template.txt"
+    # fdir_two = prefix+"two_element_template.txt"
+    # fdir_three = prefix+"three_element_template.txt"
+    # fdir_four = prefix+"four_element_template.txt"
+    # fdir_other = prefix+"other_element_template.txt"
+    # t_ans = "new_form_data_ans.txt"
+    # f_one = open(fdir_one,"a",encoding="utf-8")
+    # f_two = open(fdir_two,"a",encoding="utf-8")
+    # f_three = open(fdir_three,"a",encoding="utf-8")
+    # f_four = open(fdir_four,"a",encoding="utf-8")
+    # f_other = open(fdir_other,"a",encoding="utf-8")
+    # f_t_ans = open(t_ans, "w",encoding='utf-8')
+    # open_text(t_s)
+
+    print(handle_tuple_element3("82.14"))
 
     print("Done")
 
