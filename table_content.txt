@@ -1,0 +1,13 @@
+Subject Disposition;Discontinued from treatment;Progressive disease;;16 mg/kg;82 (77.4%);----In the 16 mg/kg group, 90 of 106 subjects (85%) discontinued treatment; the majority of treatment discontinuations (82 subjects; 77%) were due to progressive disease.
+Subject Disposition;;Discontinued from treatment;;16 mg/kg;90 (84.9%);----In the 16 mg/kg group, 90 of 106 subjects (85%) discontinued treatment; the majority of treatment discontinuations (82 subjects; 77%) were due to progressive disease.
+Subject Disposition;Discontinued from treatment;Adverse event;;16 mg/kg;5 (4.7%);----Five subjects (5%) discontinued from treatment due to a TEAE.
+Demographics;Age;Median;16 mg/kg;Total;63.5;----In the 16 mg/kg group the median age was 63.5 years.
+Demographics;Age;Median;;Total;64.0;----The median age of all treated subjects was 64 years, and 52% were male.
+Demographics;Sex, n (%);Male;;Total;64 (51.6%);----The median age of all treated subjects was 64 years, and 52% were male.
+Demographics;Sex, n (%);Female;16 mg/kg;Total;54 (50.9%);----In the 16 mg/kg group the median age was 63.5 years; 51% of subjects were female.
+Demographics;Race, n (%);White;16 mg/kg;Total;84 (79.2%);----Most subjects (79%) were white, and 14% were black or African American.
+Demographics;Race, n (%);Black or African American;16 mg/kg;Total;15 (14.2%);----Most subjects (79%) were white, and 14% were black or African American.
+Demographics;Race, n (%);White;;Total;101 (81.5%);----Most (82%) subjects were white, 12% of subjects were black or African American.
+Demographics;Race, n (%);Black or African American;;Total;15 (12.1%);----Most (82%) subjects were white, 12% of subjects were black or African American.
+Demographics;Baseline ECOG score, n (%);1;16 mg/kg;Total;69 (65.1%);----A baseline ECOG performance status score of 1 was reported for 65% of subjects and a score of 2 was reported for 8% of subjects.
+Demographics;Baseline ECOG score, n (%);2;16 mg/kg;Total;8 (7.5%);----A baseline ECOG performance status score of 1 was reported for 65% of subjects and a score of 2 was reported for 8% of subjects.

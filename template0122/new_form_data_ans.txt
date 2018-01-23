@@ -1,0 +1,84 @@
+Of the &data_1_Int; subjects enrolled and &row_1_1; 15 subjects completed the study, receiving 7 &row_1_1; infusions of daratumumab.
+The remaining 17 (53%) &row_1_1; with daratumumab, &data_1_Int; subjects (65%) in the &column_1_1; group.
+The remaining &data_2_Int; (53%) &row_1_1; with daratumumab, &data_1_Int; subjects (65%) in the &column_1_1; group.
+Slightly &row_1_1; than half of the subjects (17; 53%) had a baseline &row_1_1; performance &row_1_1; of Grade 1; &data_1_Int; subjects (44%) had an &row_1_1; performance &row_1_1; of Grade 0.
+Slightly &row_1_1; than half of the subjects (17; 53%) had a baseline &row_1_1; performance &row_1_1; of Grade 1; &data_1_Int; subjects (44%) had an &row_1_1; performance &row_1_1; of Grade 0.
+In Part 1, &data_1_Int; subjects (97%) experienced &row_1_1;
+&data_1_Int; subjects (16%) having &row_1_1; related to study drug.
+In &row_1_1; All-Treated Part 1 population, &data_1_Int; &row_1_1; (97%) experienced a &row_1_1;
+In addition to &row_1_1; 2 &row_1_1; of bronchospasm mentioned above, only pyrexia (3 subjects [9%], 1 each in &row_1_1; 2 mg/kg, 8 mg.kg, &row_1_2; 16 mg/kg dose groups) &row_1_1; reported in more than 1 subject (Table 11).
+In addition to &row_1_1; 2 &row_1_1; of bronchospasm mentioned above, only &row_2_3; (3 subjects [9%], 1 each in &row_1_1; 2 mg/kg, 8 mg.kg, &row_1_2; 16 mg/kg dose groups) &row_1_1; reported in more than 1 subject (Table 11).
+In addition to &row_1_1; 2 &row_1_1; of bronchospasm mentioned above, only &row_2_3; (3 subjects [9%], 1 each in &row_1_1; 2 mg/kg, 8 mg.kg, &row_1_2; 16 mg/kg dose groups) &row_1_1; reported in more than 1 subject (Table 11).
+&row_1_1; 12 presents infusion-related reactions for subjects in the 8 mg/kg and 16 mg/kg &row_1_1; groups, as &row_1_1; as for the &data_1_Int; subjects across &row_1_1; dose groups who &column_1_2; included in the All-Treated Part 1 population.
+For the &column_1_1; group, &row_1_2; &row_1_1; decreased from &data_1_Float; &row_1_1; (n = 3) after the first full infusion to 0.104 &row_1_1; (n = 1) after the last full infusion.
+For the &column_1_1; group, &row_1_2; &row_1_1; decreased from &data_1_Float; &row_1_1; (n = 3) after the first full infusion to &data_2_Float; &row_1_1; (n = 1) after the last full infusion.
+After the first full infusion, &row_1_2; &row_1_1; decreased from 1.06 &row_1_1; in the 2 &column_1_1; group to &data_1_Float; &row_1_1; in the &column_1_1; group; after the last (7th) full infusion, clearance decreased from 0.586 &row_1_1; (n = 1) in the 2 &column_1_1; group to 0.162 &row_1_1; (n = 2) in the &column_1_1; group.
+After the first full infusion, &row_1_2; &row_1_1; decreased from 1.06 &row_1_1; in the &column_2_1; &column_1_1; group to &data_1_Float; &row_1_1; in the &column_1_1; group; after the last (7th) full infusion, clearance decreased from &data_2_Float; &row_1_1; (n = 1) in the &column_2_1; &column_1_1; group to 0.162 &row_1_1; (n = 2) in the &column_1_1; group.
+After the first full infusion, &row_1_2; &row_1_1; decreased from 1.06 &row_1_1; in the &column_2_1; &column_1_1; group to &data_1_Float; &row_1_1; in the &column_1_1; group; after the last (7th) full infusion, clearance decreased from &data_2_Float; &row_1_1; (n = 1) in the &column_2_1; &column_1_1; group to &data_3_Float; &row_1_1; (n = 2) in the &column_1_1; group.
+&row_1_1; &data_1_Int; subjects in the &column_1_1; group discontinued &row_1_1; with daratumumab because of progressive disease (Table 21).
+&row_1_2; majority of subjects were &row_1_2; (47 subjects; 65%); median &row_1_1; was 61 years.
+Most subjects (51; 71%) had a baseline &row_1_1; performance &row_1_1; of Grade 1.
+The majority &row_1_1; subjects (50; 69%) received more than &row_1_3; &row_1_1;
+All subjects (100%) received &row_1_1; treatment with bortezomib and &data_1_Int; subjects (19%) received &row_1_1; treatment with &row_1_2;
+&data_1_Int; subjects (36%) received &row_1_1; &row_1_2; therapy; and 19 subjects (45%) received &row_1_1; &row_1_2; therapy.
+&data_1_Int; subjects (36%) received &row_1_1; &row_1_2; therapy; and &data_2_Int; subjects (45%) received &row_1_1; &row_1_2; therapy.
+&data_1_Int; subjects (67%) received &row_1_1; &row_1_2; therapy.
+&data_1_Int; subjects (30%) had &row_1_1; SCT.
+Additionally,5 subjects (12%) were &row_1_1; bortezomib+lenalidomide+carfilzomib+pomalidomide.
+Median duration of &row_1_1; for the &data_1_Int; subjects in the &column_1_1; group was 5.36 months.
+&row_2_2; &row_2_1; &row_1_1; for the &data_1_Int; subjects in the &column_1_1; group was &data_2_Float; &row_2_1;
+Most subjects (40%) were &row_1_1; for &row_1_3; &row_1_1; more, but less than 3 &row_1_1; &row_1_3; subject (3%) was &row_1_1; for &data_1_Int; &row_1_1; &row_1_2; (Table 28).
+Most subjects (40%) were &row_1_1; for &row_1_3; &row_1_1; more, but less than 3 &row_1_1; &row_1_3; subject (3%) was &row_1_1; for &data_1_Int; &row_1_1; &row_1_2; (Table 28).
+&data_1_Int; subjects (7%) were &row_1_1; for &row_1_3; &row_1_1; &row_1_2; (Table 28).
+In the All-Treated Part 2 population, 71 subjects (71/72; 99%) experienced a TEAE.
+In &row_2_1; All-Treated Part 2 population, &data_2_Int; &row_2_1; (71/72; 99%) experienced a &row_2_1;
+In &row_1_1; &column_1_1; group, most commonly reported TEAEs &row_1_1; upper &row_1_2; tract infection (27%).
+Attachment TSFAE02A summarizes &row_1_1; incidence &column_1_2; &row_1_1; most commonly reported TEAEs (at least 5% in &row_1_2; group) by SOC &row_1_2; preferred &row_1_1;
+Attachment TSFAE02A summarizes &row_1_1; incidence &column_1_2; &row_1_1; most commonly reported TEAEs (at least 5% in &row_1_2; group) by SOC &row_1_2; preferred &row_1_1;
+Attachment TSFAE02A summarizes &row_1_1; incidence &column_1_2; &row_1_1; most commonly reported TEAEs (at least 5% in &row_1_2; group) by SOC &row_1_2; preferred &row_1_1;
+&row_1_3; (5 subjects; 7%) &row_1_1; most common Grade 3/4 TEAEs.
+In &row_1_1; &column_1_1; group, &row_1_1; most common serious TEAEs &row_1_1; &row_1_3; (3 subjects; 7%).
+In &row_1_1; &column_1_1; group, &row_1_1; most common serious TEAEs &row_1_1; &row_1_3; (3 subjects; 7%).
+The most commonly reported serious TEAEs &row_1_1; both groups &row_1_1; &row_1_3; (6 subjects; 8%), pyrexia (3 subjects; 4%), &row_1_2; crossmatch incompatible (3 subjects; 4%).
+The most commonly reported serious TEAEs &row_1_1; both groups &row_1_1; &row_1_3; (6 subjects; 8%), &row_2_3; (3 subjects; 4%), &row_1_2; crossmatch incompatible (3 subjects; 4%).
+The most commonly reported serious TEAEs &row_1_1; both groups &row_1_1; &row_1_3; (6 subjects; 8%), &row_2_3; (3 subjects; 4%), &row_1_2; &row_3_3; (3 subjects; 4%).
+In &row_1_1; &column_1_1; group, &row_1_1; 20 &row_1_1; IRRs, all (100%) &row_1_1; had an IRR during &row_1_1; first &row_1_1; 5% during &row_1_1; second &row_1_1; and 10% during subsequent &row_1_1;
+In &row_1_1; &column_1_1; group, &row_1_1; 20 &row_1_1; IRRs, all (100%) &row_1_1; had an IRR during &row_1_1; first &row_1_1; 5% during &row_1_1; second &row_1_1; and 10% during &column_2_3; &row_1_1;
+&row_1_1; &data_1_Int; &row_1_1; IRRs across &row_1_1; combined 16 mg/kg and 8 mg/kg groups.
+&row_1_1; &data_1_Int; subjects received analgesics (including analgesics &row_1_1; as antipyretics); antihistamines (most commonly clemastine [53%](Table 38).
+&row_1_1; &data_1_Int; subjects received analgesics (including analgesics &row_1_1; as antipyretics); &row_2_1; (most commonly &row_2_2; [53%](Table 38).
+&data_1_Int; subjects (20%) have an &row_1_2;
+&data_1_Int; subjects (20%) have an &row_1_2;
+For subjects in the &column_1_1; group, ORR was 10% (3 of 30 subjects; 95% CI: 2%; 27%).
+&data_1_Int; subjects (26%) achieved &row_1_2;
+&data_1_Int; subjects (10%) have an &row_1_2;
+In addition, &data_1_Int; subjects (47%) had &row_1_2;
+For the &column_1_1; group,the &row_1_2; duration of response for the 3 responders was &data_1_Float; months &row_1_2; 6.2,10.6).
+For the &column_1_1; group,the &row_1_2; duration of response for the 3 responders was &data_1_Float; months &row_1_2; 6.2,10.6).
+Forty-nine TTP &row_1_2; were observed, 22 (52%) in the 16 &column_1_1; group and &data_1_Int; (90%) in the &column_1_1; group.
+Forty-nine TTP &row_1_2; were observed, &data_2_Int; (52%) in the &column_2_1; &column_1_1; group and &data_1_Int; (90%) in the &column_1_1; group.
+&row_1_2; TTP for the 16 &column_1_1; group was 5.6 months &row_1_2; 4.7, NE); &row_1_2; TTP for the &column_1_1; group was &data_1_Float; months &row_1_2; 1.4, 3.5).
+&row_1_2; TTP for the &column_2_1; &column_1_1; group was &data_2_Float; months &row_1_2; 4.7, NE); &row_1_2; TTP for the &column_1_1; group was &data_1_Float; months &row_1_2; 1.4, 3.5).
+Fifty &row_1_1; &row_1_2; (progressive disease &row_1_2; death) were observed, 23 (55%) in the 16 &column_1_1; group and &data_1_Int; (90%) in the &column_1_1; group.
+Fifty &row_1_1; &row_1_2; (progressive disease &row_1_2; death) were observed, &data_2_Int; (55%) in the &column_2_1; &column_1_1; group and &data_1_Int; (90%) in the &column_1_1; group.
+&row_1_2; progression-free survival was 5.6 months &row_1_2; 4.2, 8.1) for the 16 &column_1_1; group and &data_1_Float; months &row_1_2; 1.4, 3.5) for &column_1_1; group.
+&row_1_2; progression-free survival was &data_2_Float; months &row_1_2; 4.2, 8.1) for the &column_2_1; &column_1_1; group and &data_1_Float; months &row_1_2; 1.4, 3.5) for &column_1_1; group.
+Sixteen &row_1_2; were observed, &column_1_1; (19%) in the 16 &column_1_1; group and &column_1_1; (27%) in the &column_1_1; group.
+Sixteen &row_1_2; were observed, &column_1_1; (19%) in the &column_2_1; &column_1_1; group and &column_1_1; (27%) in the &column_1_1; group.
+&data_1_Int; events (73%) were &row_1_2; in the 16 &column_1_1;
+None of &row_1_1; 66 &row_1_1; antibody data tested positive for antibodies to daratumumab at any time point in Part 2 of &row_1_1; study (27 and 39 &row_1_1; for &column_1_1; and 16 &column_1_1; groups, respectively) (Table 55).
+None of &row_1_1; 66 &row_1_1; antibody data tested positive for antibodies to daratumumab at any time point in Part 2 of &row_1_1; study (27 and &data_2_Int; &row_1_1; for &column_1_1; and &column_2_1; &column_1_1; groups, respectively) (Table 55).
+None of &row_1_1; &data_3_Int; &row_1_1; antibody data tested positive for antibodies to daratumumab at any time point in Part 2 of &row_1_1; study (27 and &data_2_Int; &row_1_1; for &column_1_1; and &column_2_1; &column_1_1; groups, respectively) (Table 55).
+&data_1_Int; subjects in the &column_1_1; treatment regimen(Table 3).
+The &data_1_Int; (33%) &row_1_1; in the &column_1_1; &row_1_1; regimen &row_1_1; study &row_1_1; for elective ASCT.
+In the &column_1_1; &row_1_1; regimen, &data_1_Int; (4%) &row_1_1; each &row_1_1; due to AE and physician¡¯s decision.
+In the &column_1_1; &row_1_1; regimen, &data_1_Int; (4%) &row_1_1; each &row_1_1; due to AE and &row_2_3;
+Thirteen (27%) &row_1_1; study &row_1_1; 8 (16%) &row_1_1; due to ¡°other¡± &row_1_2; (all 8 were &row_1_1; electively &row_1_2; autologous stem cell transplant [ASCT]), 3 (6%) &row_1_1; due to progressive disease and &data_1_Int; (2%) &row_1_1; each due to an AE and physician¡¯s decision.
+Thirteen (27%) &row_1_1; study &row_1_1; 8 (16%) &row_1_1; due to ¡°other¡± &row_1_2; (all 8 were &row_1_1; electively &row_1_2; autologous stem cell transplant [ASCT]), 3 (6%) &row_1_1; due to progressive disease and &data_1_Int; (2%) &row_1_1; each due to an AE and &row_2_3;
+Thirteen (27%) &row_1_1; study &row_1_1; 8 (16%) &row_1_1; due to ¡°other¡± &row_1_2; (all 8 were &row_1_1; electively &row_1_2; autologous stem cell transplant [ASCT]), &data_3_Int; (6%) &row_1_1; due to &row_3_3; and &data_1_Int; (2%) &row_1_1; each due to an AE and &row_2_3;
+Thirteen (27%) &row_1_1; study &row_1_1; &data_4_Int; (16%) &row_1_1; due to &row_4_3; &row_1_2; (all &data_4_Int; were &row_1_1; electively &row_1_2; autologous stem cell transplant [ASCT]), &data_3_Int; (6%) &row_1_1; due to &row_3_3; and &data_1_Int; (2%) &row_1_1; each due to an AE and &row_2_3;
+The most commonly reported SAE was &row_1_3; (3 subjects; 6%).
+&row_1_1; were &row_1_1; in &data_1_Int; (49%) &row_1_1; during &row_1_1; study.
+&data_1_Int; subjects (3%) achieved VGPR or better with a &row_1_1; CR.
+The &row_1_1; was &data_1_Float; &row_1_1;
+Study MMY2002 and Study GEN501 Part 2 are both single arm, open &row_1_1; studies in which subjects with relapsed and refractory multiple myeloma were administered &column_1_1; daratumumab (n=42 in Study GEN501 Part 2).

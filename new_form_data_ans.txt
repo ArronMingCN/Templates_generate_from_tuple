@@ -1,0 +1,33 @@
+In the &column_1_1; group, &data_1_Int; of 106 subjects ( &data_1_%; ) &row_1_1; the majority of &row_1_1; discontinuations ( 82 subjects; 77% ) were due to progressive disease.
+In the &column_1_1; group, &data_1_Int; of 106 subjects ( &data_1_%; ) &row_1_1; the majority of &row_1_1; discontinuations ( &data_2_Int; subjects; &data_2_%; ) were due to &row_2_2;
+Five subjects ( &data_1_%; ) &row_1_1; due to a TEAE.
+Eleven &row_1_1; ( &data_1_%; ) had &row_1_1;
+Seven ( &data_1_%; ) &row_1_1; &row_1_2; &row_1_1; study &row_1_2; &row_1_1; inclusion/exclusion &row_1_2; ( see brief narratives below ) .
+Three &row_1_1; ( &data_1_%; ) &row_1_2;
+One &row_1_1; in &row_1_1; &column_1_1; group was considered to have had a &row_1_1; captured as &row_1_2; &row_1_1; not having an ECG completed at screening.
+As &row_1_1; the clinical cut-off date, the &row_1_2; &row_1_1; for the &column_1_1; group was 2.8?months, with the longest &row_1_1; being 14.2 &row_1_1; ( Table 7 ) .
+As &row_1_1; the clinical cut-off date, the &row_1_2; &row_1_1; for the &column_1_1; group was 2.8?months, with the longest &row_1_1; being 14.2 &row_1_1; ( Table 7 ) .
+The &row_1_2; &row_1_1; received was &data_1_Float; &row_1_1; ( 1 &row_1_1; = 28 days ) .
+Forty subjects ( &data_1_%; ) received &row_1_2; &row_1_1; daratumumab &row_1_1;
+For all treated subjects, the &row_1_2; &row_1_1; was 100% of the target &row_1_1; for both treatment groups ( 8 and 16 mg/kg ) .
+In the &column_1_1; group, at the time &row_1_2; the primary analysis, &data_1_%; &row_1_2; subjects had PFS &row_1_2; ( progressed &row_1_2; died ) , based &row_1_2; IRC assessment ( Table 6 ) .
+At the time of the primary analysis, the &row_1_2; PFS ( &row_1_1; ) was 3.7 &row_1_1; ( &row_1_2; 2.8, 4.6 ) .
+The &row_1_1; PFS &row_1_1; was 37% ( &row_1_1; 27%, 46% ) .
+The &row_1_1; PFS &row_1_1; was 18% ( &row_1_1; 11%, 28% ) &row_1_1; &column_1_1; group.
+After a &row_1_2; duration of follow-up of 9.3 &row_1_1; ( Attachment TSIFUP01 ) , the &row_1_2; duration of response was 7.4?months, and among the 31 confirmed responders in the &column_1_1; group, 17 ( 55% ) have progressed, based on IRC assessment.
+After a &row_1_2; &row_2_1; follow-up &row_2_1; 9.3 &row_1_1; ( Attachment TSIFUP01 ) , the &row_1_2; &row_2_1; was 7.4?months, and among the 31 confirmed &row_2_1; in the &column_1_1; group, &data_2_Int; ( &data_2_%; ) have progressed, based &row_2_1; IRC assessment.
+Based &row_1_1; Kaplan-Meier estimate, 59% ( &row_1_1; 39%, 75% ) &row_1_1; remained progression &row_1_1; and alive &row_1_1; and 38% ( &row_1_1; 20%, 56% ) &row_1_1; remained progression &row_1_1; and alive &row_1_1; 12 months ( Table 2 ) .
+Based &row_1_1; Kaplan-Meier estimate, 59% ( &row_1_1; 39%, 75% ) &row_1_1; remained progression &row_1_1; and alive &row_1_1; and 38% ( &row_1_1; 20%, 56% ) &row_1_1; remained progression &row_1_1; and alive &row_1_1; 12 months ( Table 2 ) .
+In the &column_1_1; group, &data_1_%; &row_1_1; subjects had experienced &row_1_1; the &row_1_1; the primary analysis.
+The &row_1_2; time to progression was 3.7?months.
+Based on &row_1_1; Kaplan Meier estimate, 37% ( &row_1_1; 28%, 47% ) of subjects &row_1_1; progression-free and &row_1_1; and 19% ( &row_1_1; 11%, 28% ) of subjects &row_1_1; progression-free &row_1_1; 12 months ( Table 4 ) .
+Based on &row_1_1; Kaplan Meier estimate, 37% ( &row_1_1; 28%, 47% ) of subjects &row_1_1; progression-free and &row_1_1; and 19% ( &row_1_1; 11%, 28% ) of subjects &row_1_1; progression-free &row_1_1; 12 months ( Table 4 ) .
+&row_1_1; overview of &row_1_1; by treatment received during the study is presented in Table 1.All but 1 subject had 1 or more reported &row_1_1; ( &data_1_%; ) .
+Of all treated subjects, &data_1_Int; ( &data_1_%; ) had &row_1_1; that were considered by the investigator to be related to daratumumab; 14 subjects ( 78% ) in the 8?mg/kg and 81 subjects ( 76% ) in the 16 mg/kg group.
+Of all treated subjects, &data_1_Int; ( &data_1_%; ) had &row_1_1; that were considered by the investigator to be related to daratumumab; &data_2_Int; subjects ( &data_2_%; ) in the 8?mg/kg and 81 subjects ( 76% ) in the 16 &column_2_1; group.
+Of all treated subjects, &data_1_Int; ( &data_1_%; ) subjects experienced 1 or more &row_1_1; 8?subjects? ( 7% ) had &row_1_1; that were considered by the investigator to be drugrelated.
+Of all treated subjects, &data_1_Int; ( &data_1_%; ) subjects experienced 1 or more &row_1_1; 8?subjects? ( 7% ) had &row_1_1; that were considered by the investigator to be &row_2_2;
+Six subjects ( &data_1_%; ) in the &column_1_1; group and 32?subjects ( 30% ) in the 1&data_1_Int; &column_1_1; group experienced 1 or more &row_1_1;
+Six subjects ( &data_1_%; ) in the &column_1_1; group and 32?subjects ( &data_2_%; ) in the 1&data_1_Int; &column_1_1; group experienced 1 or more &row_1_1;
+No subject in the &column_1_1; group and &column_1_1; subjects ( 8% ) in the 16 &column_1_1; group had &row_1_1; considered by the investigator to be related to daratumumab.
+No subject in the &column_1_1; group and &column_1_1; subjects ( &data_2_%; ) in the &column_2_1; &column_1_1; group had &row_1_1; considered by the investigator to be related to daratumumab.

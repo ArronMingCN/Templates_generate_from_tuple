@@ -1,0 +1,2 @@
+﻿Analysis set: all treated|Median||16 mg/kg||154.00|||Analysis set: all treated|Median||Total||149.50----For subjects in both treatment groups, the median platelet count at baseline was 149.5 x109/L (16 mg/kg group: 154.0 x109/L).
+Action taken during infusion Infusion interrupted|Adverse event||16 mg/kg||34 (32.1%)----Most interruptions (34 subjects; 32%) were due to an AE.
