@@ -319,7 +319,7 @@ def cutEleIntoList(ele):
     return list
 
 if __name__ == "__main__":
-    t_s = "test_sentences.txt"
+    t_s = "tuple-to-sentence_1/efficy-tupletosentence.txt"
     '''
     fdir_one = "D:/AI Writing 2018 @YaZhi/one_element_template.txt"
     fdir_two = "D:/AI Writing 2018 @YaZhi/two_element_template.txt"
@@ -328,12 +328,12 @@ if __name__ == "__main__":
     fdir_other = "D:/AI Writing 2018 @YaZhi/other_element_template.txt"
     t_ans = "D:/AI Writing 2018 @YaZhi/new_form_data_ans.txt"
     '''
-    prefix=""
-    fdir_one = "one_element_template.txt"
-    fdir_two = "two_element_template.txt"
-    fdir_three = "three_element_template.txt"
-    fdir_four = "four_element_template.txt"
-    fdir_other = "other_element_template.txt"
+    prefix="templates_1/"
+    fdir_one = prefix+"one_element_template.txt"
+    fdir_two = prefix+"two_element_template.txt"
+    fdir_three = prefix+"three_element_template.txt"
+    fdir_four = prefix+"four_element_template.txt"
+    fdir_other = prefix+"other_element_template.txt"
     t_ans = "new_form_data_ans.txt"
     f_one = open(fdir_one,"a",encoding="utf-8")
     f_two = open(fdir_two,"a",encoding="utf-8")

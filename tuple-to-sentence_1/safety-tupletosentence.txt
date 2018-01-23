@@ -1,0 +1,60 @@
+Any TEAE||Total||123 (99.2%)----An overview of TEAEs by treatment received during the study is presented in Table 1.All but 1 subject had 1 or more reported TEAE (99%).
+Any TEAE|Drug-related||Total||95 (76.6%)|||Any TEAE|Drug-related||8 mg/kg||14 (77.8%)----Of all treated subjects, 95 (77%) had TEAEs that were considered by the investigator to be related to daratumumab; 14 subjects (78%) in the 8 mg/kg and 81 subjects (76%) in the 16 mg/kg group.
+Any serious TEAE||Total||38 (30.6%)|||Any serious TEAE|Drug-related||Total||8 (6.5%)----Of all treated subjects, 38 (31%) subjects experienced 1 or more serious TEAEs; 8 subjects (7%) had serious TEAEs that were considered by the investigator to be drugrelated.
+Any serious TEAE||8 mg/kg||6 (33.3%)|||Any serious TEAE||16 mg/kg|Total||32 (30.2%)----Six subjects (33%) in the 8 mg/kg group and 32 subjects (30%) in the 16 mg/kg group experienced 1 or more serious TEAEs.
+Any serious TEAE|Drug-related||8 mg/kg||0|||Any serious TEAE|Drug-related||16 mg/kg|Total||8 (7.5%)----No subject in the 8 mg/kg group and 8 subjects (8%) in the 16 mg/kg group had serious TEAEs considered by the investigator to be related to daratumumab.
+Maximum severity of any TEAE|Grade 5||16 mg/kg|Total||9 (8.5%)----In the 16 mg/kg group, 9 subjects (9%) had TEAEs with an outcome of death (Grade 5).
+MedDRA system organ class/Preferred term|General Disorders And Administration Site Conditions|Fatigue||16 mg/kg|Any Grade||42 (39.6%)|||MedDRA system organ class/Preferred term|Respiratory, Thoracic And Mediastinal Disorders|Cough||16 mg/kg|Any Grade||22 (20.8%)|||MedDRA system organ class/Preferred term|Respiratory, Thoracic And Mediastinal Disorders|Cough||Total|Any Grade||28 (22.6%)|||MedDRA system organ class/Preferred term|Gastrointestinal Disorders|Nausea||16 mg/kg|Any Grade||31 (29.2%)|||MedDRA system organ class/Preferred term|Gastrointestinal Disorders|Nausea||Total|Any Grade||35 (28.2%)|||MedDRA system organ class/Preferred term|Musculoskeletal And Connective Tissue Disorders|Back Pain||16 mg/kg|Any Grade||23 (21.7%)|||MedDRA system organ class/Preferred term|Musculoskeletal And Connective Tissue Disorders|Back Pain||Total|Any Grade||28 (22.6%)|||MedDRA system organ class/Preferred term|Blood And Lymphatic System Disorders|Anaemia||16 mg/kg|Any Grade||35 (33.0%)|||MedDRA system organ class/Preferred term|Blood And Lymphatic System Disorders|Anaemia||Total|Any Grade||44 (35.5%)|||MedDRA system organ class/Preferred term|Blood And Lymphatic System Disorders|Thrombocytopenia||16 mg/kg|Any Grade||27 (25.5%)|||MedDRA system organ class/Preferred term|Blood And Lymphatic System Disorders|Thrombocytopenia||Total|Any Grade||33 (26.6%)|||MedDRA system organ class/Preferred term|Blood And Lymphatic System Disorders|Neutropenia||16 mg/kg|Any Grade||24 (22.6%)|||MedDRA system organ class/Preferred term|Blood And Lymphatic System Disorders|Neutropenia||Total|Any Grade||25 (20.2%)----The most frequently reported TEAEs across all treated subjects were fatigue (40%; 40% in the 16 mg/kg group); anemia (36%; 33% in the 16 mg/kg group), nausea (28%; 29% in the 16 mg/kg group); thrombocytopenia (27%; 26% in the 16 mg/kg group); back pain (23%; 22% in the 16 mg/kg group); cough (23%; 21% in the 16 mg/kg group); and neutropenia (20%; 23% in the 16 mg/kg group) (Table 2).
+Total number of subjects with TEAEs||Total|Grade 3 or 4||81 (65.3%)----Of all treated subjects, 81 (65%) had Grade 3 or 4 TEAEs.
+Total number of subjects with TEAEs||8 mg/kg|Grade 3 or 4||11 (61.1%)|||Total number of subjects with TEAEs||16 mg/kg|Grade 3 or 4||70 (66.0%)----The occurrence of Grade 3 or 4 TEAEs was similar in both the 8 mg/kg and 16 mg/kg groups (61% versus 66%).
+MedDRA system organ class/Preferred term|Blood And Lymphatic System Disorders|Anaemia||16 mg/kg|Grade 3 or 4||25 (23.6%)|||MedDRA system organ class/Preferred term|Blood And Lymphatic System Disorders|Thrombocytopenia||16 mg/kg|Grade 3 or 4||20 (18.9%)|||MedDRA system organ class/Preferred term|Blood And Lymphatic System Disorders|Neutropenia||16 mg/kg|Grade 3 or 4||13 (12.3%)----The most frequently reported TEAEs with a severity of Grade 3 or Grade 4 in ≥10% subjects in the 16 mg/kg group were anemia (24%), thrombocytopenia (19%), and neutropenia (12%) (Table 3).
+Death within 30 days of last dose||Total||12 (9.7%)|||Death within 30 days of last dose||16 mg/kg||12 (11.3%)----Twelve subjects died within 30 days of the last dose of study drug; all 12 were in the 16 mg/kg group.
+Death within 30 days of last dose|Progressive disease||Total||10 (8.1%)|||Death within 30 days of last dose|Adverse event||Total||2 (1.6%)----Ten of the deaths were due to progressive disease, and 2 of the deaths were due to a TEAE.
+Total number of subjects with serious TEAEs||16 mg/kg|Any Grade||32 (30.2%)|||Total number of subjects with serious TEAEs||Total|Any Grade||38 (30.6%)----Thirty-eight (38) subjects (31%; 32 subjects [30%] in the 16 mg/kg group) had a serious TEAE (Grade 1 to 4).
+MedDRA system organ class/Preferred term|Infections And Infestations|Pneumonia||Total|Any Grade||4 (3.2%)|||MedDRA system organ class/Preferred term|General Disorders And Administration Site Conditions|General Physical Health Deterioration||Total|Any Grade||6 (4.8%)|||MedDRA system organ class/Preferred term|Metabolism And Nutrition Disorders||Total|Grade 3 or 4||4 (3.2%)----The most frequently reported serious TEAEs that occurred in all treated subjects at a 3% or higher frequency were; general physical health deterioration (6 subjects; 5%), pneumonia (4 subjects, 3%), and hypercalcaemia (4 subjects, 3%) (Table 5).
+Total number of subjects with treatment discontinuation due to TEAEs||16 mg/kg|Total||5 (4.7%)|||Total number of subjects with treatment discontinuation due to TEAEs||Total|Total||5 (4.0%)|||Total number of subjects with treatment discontinuation due to TEAEs||Total|Related||0----Treatment discontinuation due to AE was reported for 5 subjects (4%), all in the 16 mg/kg group (Table 6); no subject discontinued treatment due to an AE related to daratumumab.
+Preferred term|General Physical Health Deterioration||Total|Total||2 (1.6%)|||Preferred term|H1N1 Influenza||Total|Total||1 (0.8%)|||Preferred term|Hypercalcaemia||Total|Total||1 (0.8%)|||Preferred term|Spinal Cord Compression||Total|Total||1 (0.8%)----General physical health deterioration was reported in 2 subjects; the following were reported in 1 subject each (H1N1 influenza, hypercalcemia, and spinal cord compression) (Table 6).
+Total number of subjects with infusion skip due to TEAEs||Total|Total||12 (9.7%)|||Total number of subjects with infusion skip due to TEAEs||Total|Related||4 (3.2%)----Skipped infusions due to TEAEs were reported in 10% of all treated subjects; 4 subjects (3%) had skipped infusions that were considered to be related to daratumumab.
+Preferred term|Upper Respiratory Tract Infection||Total|Related||1 (0.8%)|||Preferred term|Herpes Zoster||Total|Related||1 (0.8%)|||Preferred term|Influenza Like Illness||Total|Related||1 (0.8%)|||Preferred term|Neutropenia||Total|Related||1 (0.8%)----The following drug-related TEAEs were reported in 1 subject each (1%) and resulted in a skipped infusion (upper respiratory tract infection, herpes zoster, influenza-like illness, and neutropenia).
+Analysis set: all treated||16 mg/kg|Total||106|||Total number of subjects with TEAE of infections/infestations||16 mg/kg|Total||54 (50.9%)|||Total number of subjects with TEAE of infections/infestations|Upper Respiratory Tract Infection||16 mg/kg|Total||19 (17.9%)----In the 16 mg/kg group, 54 subjects (51%) experienced TEAEs of infections/infestations, which included 19/106 subjects (18%) with upper respiratory tract infections.
+Total number of subjects with TEAE of infections/infestations|Nasopharyngitis||16 mg/kg|Total||8 (7.5%)|||Total number of subjects with TEAE of infections/infestations|Pneumonia||16 mg/kg|Total||8 (7.5%)|||Total number of subjects with TEAE of infections/infestations|Sinusitis||16 mg/kg|Total||7 (6.6%)|||Total number of subjects with TEAE of infections/infestations|Urinary Tract Infection||16 mg/kg|Total||6 (5.7%)----Eight/106 subjects each (8%) had pneumonia and nasopharyngitis, 7/106 subjects (7%) had sinusitis and 6/106 subjects (6%) had urinary tract infections (Table 8).
+Total number of subjects with infusion related reactions||Total|Any Grade||53 (42.7%)----Infusion-related reactions (IRR any grade) were reported in 43% of all treated subjects (Table 9).
+MedDRA system organ class/Preferred term|Respiratory, Thoracic And Mediastinal Disorders|Nasal Congestion||Total|Any Grade||14 (11.3%)|||MedDRA system organ class/Preferred term|Respiratory, Thoracic And Mediastinal Disorders|Cough||Total|Any Grade||9 (7.3%)|||MedDRA system organ class/Preferred term|Respiratory, Thoracic And Mediastinal Disorders|Dyspnoea||Total|Any Grade||7 (5.6%)|||MedDRA system organ class/Preferred term|Respiratory, Thoracic And Mediastinal Disorders|Throat Irritation||Total|Any Grade||7 (5.6%)|||MedDRA system organ class/Preferred term|Respiratory, Thoracic And Mediastinal Disorders|Bronchospasm||Total|Any Grade||4 (3.2%)|||MedDRA system organ class/Preferred term|General Disorders And Administration Site Conditions|Chills||Total|Any Grade||11 (8.9%)----The most frequently reported IRRs were nasal congestion (11%), chills (9%), cough (7%), throat irritation, dyspnea and vomiting (6% each), nausea (4%) and bronchospasm (3%).
+Total number of subjects with infusion related reactions||Total|Grade 3 or 4||7 (5.6%)|||MedDRA system organ class/Preferred term|Respiratory, Thoracic And Mediastinal Disorders|Bronchospasm||Total|Grade 3 or 4||2 (1.6%)|||MedDRA system organ class/Preferred term|Vascular Disorders|Hypertension||Total|Grade 3 or 4||2 (1.6%)----Six percent (6%) of all treated subjects had Grade 3 or 4 IRRs; bronchospasm and hypertension (each reported in 2%) and anemia, dyspnea, chills, hypertension, and cytokine release syndrome (reported in 1% each).
+Duration of infusions (hours)|First infusion|Median||16 mg/kg||6.96|||Duration of infusions (hours)|Second infusion|Median||16 mg/kg||4.23|||Duration of infusions (hours)|All subsequent infusions|Median||16 mg/kg||3.42----For the 16 mg/kg group, the median duration of infusion decreased with subsequent infusions, ie, the first infusion was 7.0 hours, compared with 4.2 hours for the second, and 3.4 for all subsequent infusions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

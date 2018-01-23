@@ -1,0 +1,40 @@
+Discontinued from treatment||16 mg/kg||90 (84.9%)|||Discontinued from treatment|Progressive disease||16 mg/kg||82 (77.4%)----In the 16 mg/kg group, 90 of 106 subjects (85%) discontinued treatment; the majority of treatment discontinuations (82 subjects; 77%) were due to progressive disease.
+Discontinued from treatment|Adverse event||16 mg/kg||5 (4.7%)----Five subjects (5%) discontinued from treatment due to a TEAE.
+Age (years)|Median||Total||64.0|||Sex, n (%)|Male||Total||64 (51.6%)----The median age of all treated subjects was 64 years, and 52% were male.
+Race, n (%)|White||Total||101 (81.5%)|||Race, n (%)|Black or African American||Total||15 (12.1%)----Most (82%) subjects were white, 12% of subjects were black or African American.
+Age (years)|Median||16 mg/kg|Total||63.5|||Sex, n (%)|Female||16 mg/kg|Total||54 (50.9%)----In the 16 mg/kg group the median age was 63.5 years; 51% of subjects were female.
+Race, n (%)|White||16 mg/kg|Total||84 (79.2%)|||Race, n (%)|Black or African American||16 mg/kg|Total||15 (14.2%)----Most subjects (79%) were white, and 14% were black or African American.
+Baseline ECOG score, n (%)|1||16 mg/kg|Total||69 (65.1%)|||Baseline ECOG score, n (%)|2||16 mg/kg|Total||8 (7.5%)----A baseline ECOG performance status score of 1 was reported for 65% of subjects and a score of 2 was reported for 8% of subjects.
+ISS Staging, n (%)|N|II||16 mg/kg|Total||40 (37.7%)|||ISS Staging, n (%)|N|III||16 mg/kg|Total||40 (37.7%)----In the 16 mg/kg group, 37.7% of subjects had ISS Stage II and 37.7% of subjects had ISS Stage III disease.
+Type of myeloma by immunofixation, n (%)|N|IgG||16 mg/kg|Total||49 (46.2%)|||Type of myeloma by immunofixation, n (%)|N|IgA||16 mg/kg|Total||22 (20.8%)|||Type of myeloma by immunofixation, n (%)|N|Light chain||16 mg/kg|Total||30 (28.3%)----The most frequent type of myeloma was IgG (49 subjects; 46%), IgA (22 subjects; 21%), and light chain (30 subjects; 28%).
+Cytogenetics profileb|Nc|T (4; 14)||16 mg/kg|Total||9 (9.5%)|||Cytogenetics profileb|Nc|Del17p||16 mg/kg|Total||16 (16.8%)----In the 16 mg/kg group, translocation t(4,14) was reported in 9 subjects (10%) and deletion 17p13 in 16 subjects (17%).
+Number of lines of prior therapy, n (%)|Median||16 mg/kg|Total||5.0|||Number of lines of prior therapy, n (%)|> 3||16 mg/kg|Total||87 (82.1%)----In the 16 mg/kg group, median number of prior lines of therapy was 5; 82% of subjects had >3 prior lines of therapy (Table 4).
+Prior PI||Total||124 (100.0%)|||Prior IMiD||Total||124 (100.0%)----All subjects (100%) received prior PI and IMiD.
+Prior ASCT||16 mg/kg|Total||85 (80.2%)----Eighty-five subjects (80%) had a prior ASCT.
+Prior IMiD|Lenalidomide||16 mg/kg|Total||105 (99.1%)----All except 1 (99%) subject received prior bortezomib.
+Analysis set: all treated|Median||16 mg/kg||99.50|||Analysis set: all treated|Median||Total||100.00----For subjects in both treatment groups, the median hemoglobin laboratory value at baseline was 100 g/L (16 mg/kg group: 99.5 g/L).
+Analysis set: all treated|Median||16 mg/kg||154.00|||Analysis set: all treated|Median||Total||149.50----For subjects in both treatment groups, the median platelet count at baseline was 149.5 x109/L (16 mg/kg group: 154.0 x109/L).
+Subjects with major protocol deviation||Total||11 (8.9%)----Eleven subjects (9%) had major protocol deviations.
+Subjects with major protocol deviation|Entered but did not satisfy criteria||Total||7 (5.6%)----Seven (6%) subjects entered the study but did not satisfy the inclusion/exclusion criteria (see brief narratives below).
+Subjects with major protocol deviation|Received wrong treatment or incorrect dose||Total||3 (2.4%)----Three subjects (2%) received wrong treatment.
+Subjects with major protocol deviation|Other*||16 mg/kg||1 (0.9%)----One subject, in the 16 mg/kg group was considered to have had a major protocol deviation captured as “other” for not having an ECG completed at screening.
+Duration of treatment (months)|Median||16 mg/kg||2.825|||Duration of treatment (months)|Median||16 mg/kg||2.825----As of the clinical cut-off date, the median duration of treatment for the 16 mg/kg group was 2.8 months, with the longest treatment duration being 14.2 months (Table 7).
+Number of treatment cycles|Median||16 mg/kg||4.0----The median number of treatment cycles received was 4.0 cycles (1 cycle = 28 days).
+Number of treatment cycles|At least 6 cycles||16 mg/kg||40 (37.7%)----Forty subjects (38%) received at least 6 cycles of daratumumab treatment.
+Relative dose intensity (%)|Median||Total||100.01----For all treated subjects, the median relative dose intensity was 100% of the target dose for both treatment groups (8 and 16 mg/kg).
+Cycle delay||16 mg/kg||19 (17.9%)|||Cycle delay|Adverse event||16 mg/kg||11 (10.4%)----In the 16 mg/kg dose group, 19 subjects (18%) experienced a cycle delay; delays for 11 subjects (10%) were due to an AE.
+Cycle delay|Other||16 mg/kg||10 (9.4%)----Ten (9%) subjects had dose delays attributed to “other” (eg, various IV administration issues).
+Action planned prior to infusion start Infusion skipped||16 mg/kg||12 (11.3%)|||Action planned prior to infusion start Infusion skipped|Adverse event||16 mg/kg||11 (10.4%)----Prior to the start of the infusion, a decision was made to skip the infusion for 12 subjects (11%), mostly due to an ongoing AE (11 subjects; 10%).
+Action taken during infusion Infusion interrupted||16 mg/kg||38 (35.8%)----During the infusion, 38 subjects (36%) had dose interruptions.
+Action taken during infusion Infusion interrupted|Adverse event||16 mg/kg||34 (32.1%)----Most interruptions (34 subjects; 32%) were due to an AE.
+Infusion rate decreased||16 mg/kg||11 (10.4%)|||Infusion rate decreased|Adverse event||16 mg/kg||10 (9.4%)----The infusion rate was decreased for 11 subjects (10%), and for 10 subjects (9%), it was due to an AE.
+
+
+
+
+
+
+
+
+
+
