@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e509a8d9-ea27-4d27-b716-5c0e42c36c40" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/table_emerge/table_emerge.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/table_emerge/table_graph.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/templates测试+demo1模板+人工泛化合集/four_element_template.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates测试+demo1模板+人工泛化合集/one_element_template.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates测试+demo1模板+人工泛化合集/other_element_template.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates测试+demo1模板+人工泛化合集/three_element_template.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates测试+demo1模板+人工泛化合集/two_element_template.txt" afterPath="" />
       <change beforePath="$PROJECT_DIR$/tuple_to_template_v5_1.py" afterPath="$PROJECT_DIR$/tuple_to_template_v5_1.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,44 +15,87 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/tuple_sentence$table_graph.coverage" NAME="table_graph Coverage Results" MODIFIED="1517035527562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_emerge" />
+    <SUITE FILE_PATH="coverage/tuple_sentence$table_emerge_v1.coverage" NAME="table_emerge_v1 Coverage Results" MODIFIED="1517203463954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_emerge" />
+    <SUITE FILE_PATH="coverage/tuple_sentence$table_emerge__1_.coverage" NAME="table_emerge (1) Coverage Results" MODIFIED="1517016149794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_emerge" />
     <SUITE FILE_PATH="coverage/tuple_sentence$tuple_to_template.coverage" NAME="tuple_to_template Coverage Results" MODIFIED="1515746688120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tuple_sentence$tuple_to_template_v2.coverage" NAME="tuple_to_template_v2 Coverage Results" MODIFIED="1516082945157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tuple_sentence$table_emerge.coverage" NAME="table_emerge Coverage Results" MODIFIED="1516955059295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tuple_sentence$tuple_to_template_v3.coverage" NAME="tuple_to_template_v3 Coverage Results" MODIFIED="1516586726036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tuple_sentence$tuple_to_template_v4_2.coverage" NAME="tuple_to_template_v4_2 Coverage Results" MODIFIED="1516618355378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tuple_sentence$table_emerge_1_.coverage" NAME="table_emerge(1) Coverage Results" MODIFIED="1517024737248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_emerge" />
     <SUITE FILE_PATH="coverage/tuple_sentence$changeText.coverage" NAME="changeText Coverage Results" MODIFIED="1515758551503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/tuple_sentence$tuple_to_template_v5_1.coverage" NAME="tuple_to_template_v5_1 Coverage Results" MODIFIED="1516697251639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tuple_sentence$table_emerge_v2.coverage" NAME="table_emerge_v2 Coverage Results" MODIFIED="1517213038292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/table_emerge" />
+    <SUITE FILE_PATH="coverage/tuple_sentence$tuple_to_template_v5_1.coverage" NAME="tuple_to_template_v5_1 Coverage Results" MODIFIED="1516945247347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tuple_to_template_v5_1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tuple_to_template_v5_1.py">
+      <file leaf-file-name="table_graph.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/table_emerge/table_graph.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="276" column="32" lean-forward="true" selection-start-line="276" selection-start-column="32" selection-end-line="276" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tuple_to_template_v4_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tuple_to_template_v4_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="925">
-              <caret line="301" column="0" lean-forward="false" selection-start-line="301" selection-start-column="0" selection-end-line="301" selection-end-column="0" />
+            <state relative-caret-position="275">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="35" selection-end-column="26" />
               <folding>
                 <element signature="e#35#45#0" expanded="true" />
+                <element signature="e#90#297#0" expanded="false" />
+                <element signature="e#321#842#0" expanded="false" />
+                <element signature="e#905#1548#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tuple_sort.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tuple_sort.py">
+      <file leaf-file-name="table_china.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/table_emerge/table_china.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2422">
-              <caret line="41" column="7" lean-forward="false" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="table_emerge_v1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/table_emerge/table_emerge_v1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2575">
+              <caret line="467" column="0" lean-forward="false" selection-start-line="467" selection-start-column="0" selection-end-line="467" selection-end-column="0" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#206#2178#0" expanded="false" />
+                <element signature="e#2204#3059#0" expanded="false" />
+                <element signature="e#3124#9964#0" expanded="false" />
+                <element signature="e#3257#6520#0" expanded="false" />
+                <element signature="e#6557#9902#0" expanded="false" />
+                <element signature="e#10113#10695#0" expanded="false" />
+                <element signature="e#10764#11085#0" expanded="false" />
+                <element signature="e#11187#11394#0" expanded="false" />
+                <element signature="e#12494#16503#0" expanded="false" />
+                <element signature="e#12758#13703#0" expanded="false" />
+                <element signature="e#13745#14702#0" expanded="false" />
+                <element signature="e#14814#15493#0" expanded="false" />
+                <element signature="e#15636#16258#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="table_emerge_v2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/table_emerge/table_emerge_v2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1000">
+              <caret line="432" column="34" lean-forward="true" selection-start-line="432" selection-start-column="34" selection-end-line="432" selection-end-column="34" />
+              <folding>
+                <element signature="e#203#2175#0" expanded="false" />
+                <element signature="e#2201#3056#0" expanded="false" />
+                <element signature="e#3121#9961#0" expanded="false" />
+                <element signature="e#10110#10692#0" expanded="false" />
+                <element signature="e#10761#11082#0" expanded="false" />
+                <element signature="e#11184#11391#0" expanded="false" />
+                <element signature="e#11453#12191#0" expanded="false" />
+                <element signature="e#12314#16144#0" expanded="false" />
+                <element signature="e#12578#13523#0" expanded="false" />
+                <element signature="e#13565#14522#0" expanded="false" />
+                <element signature="e#16216#16630#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -73,6 +113,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>str</find>
+      <find>-35.9</find>
+      <find>||||</find>
+      <find>open</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -89,7 +132,18 @@
         <option value="$PROJECT_DIR$/tuple_to_template_v4.py" />
         <option value="$PROJECT_DIR$/tuple_to_template_v4_1.py" />
         <option value="$PROJECT_DIR$/tuple_to_template_v4_2.py" />
+        <option value="$PROJECT_DIR$/table_emerge.py" />
+        <option value="$PROJECT_DIR$/table_emerge/table_emerge_t1.txt" />
+        <option value="$PROJECT_DIR$/table_emerge/table_emerge_t2.txt" />
         <option value="$PROJECT_DIR$/tuple_to_template_v5_1.py" />
+        <option value="$PROJECT_DIR$/table_emerge/table_emerge_china.txt" />
+        <option value="$PROJECT_DIR$/table_emerge/table_emerge_overall.txt" />
+        <option value="$PROJECT_DIR$/table_emerge/table_source_china.txt" />
+        <option value="$PROJECT_DIR$/table_emerge/table_source_overall.txt" />
+        <option value="$PROJECT_DIR$/table_emerge/table_emerge.py" />
+        <option value="$PROJECT_DIR$/table_emerge/table_graph.py" />
+        <option value="$PROJECT_DIR$/table_emerge/table_emerge_v1.py" />
+        <option value="$PROJECT_DIR$/table_emerge/table_emerge_v2.py" />
       </list>
     </option>
   </component>
@@ -100,8 +154,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="814" />
-    <option name="y" value="67" />
+    <option name="x" value="524" />
     <option name="width" value="1218" />
     <option name="height" value="925" />
   </component>
@@ -121,12 +174,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="tuple_sentence" type="b2602c69:ProjectViewProjectNode" />
               <item name="tuple_sentence" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tuple_sentence" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tuple_sentence" type="462c0819:PsiDirectoryNode" />
+              <item name="table_emerge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tuple_sentence" type="b2602c69:ProjectViewProjectNode" />
@@ -141,8 +201,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,7 +211,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pycharm_work\tuple_sentence\table_emerge" />
       <recent name="D:\pycharm_work\tuple_sentence" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pycharm_work\tuple_sentence\table_emerge" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -168,116 +230,116 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tuple_to_template_v5_1">
-    <configuration name="changeText" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.table_emerge_v2">
+    <configuration name="table_emerge (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/table_emerge" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tuple_sentence" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/changeText.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/table_emerge/table_emerge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="tuple_to_template_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="table_emerge(1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/table_emerge" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tuple_sentence" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuple_to_template_v2.py" />
+      <option name="SCRIPT_NAME" value="D:\pycharm_work\tuple_sentence\table_emerge\table_emerge_v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="tuple_to_template_v3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="table_emerge_v1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/table_emerge" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tuple_sentence" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuple_to_template_v3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/table_emerge/table_emerge_v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="tuple_to_template_v4_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="table_emerge_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/table_emerge" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tuple_sentence" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuple_to_template_v4_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/table_emerge/table_emerge_v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="tuple_to_template_v5_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="table_graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/table_emerge" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tuple_sentence" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuple_to_template_v5_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/table_emerge/table_graph.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.changeText" />
-      <item index="1" class="java.lang.String" itemvalue="Python.tuple_to_template_v2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.tuple_to_template_v3" />
-      <item index="3" class="java.lang.String" itemvalue="Python.tuple_to_template_v4_2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.tuple_to_template_v5_1" />
+      <item index="0" class="java.lang.String" itemvalue="Python.table_emerge (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.table_emerge(1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.table_emerge_v1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.table_graph" />
+      <item index="4" class="java.lang.String" itemvalue="Python.table_emerge_v2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tuple_to_template_v5_1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tuple_to_template_v4_2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.tuple_to_template_v3" />
-        <item index="3" class="java.lang.String" itemvalue="Python.tuple_to_template_v2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.changeText" />
+        <item index="0" class="java.lang.String" itemvalue="Python.table_emerge_v2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.table_emerge_v1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.table_graph" />
+        <item index="3" class="java.lang.String" itemvalue="Python.table_emerge(1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.table_emerge (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +367,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23991507" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2908705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16822916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -313,13 +375,13 @@
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28419936" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2834395" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -331,74 +393,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="21" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tuple_to_template_v1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tuple_to_template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tuple_to_template_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_form_data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/changeText.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="35" column="35" lean-forward="false" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/levens.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="28" column="10" lean-forward="false" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template_out.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tuple_to_template_v1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tuple_to_template_v3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4200">
-          <caret line="170" column="39" lean-forward="false" selection-start-line="170" selection-start-column="39" selection-end-line="170" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tuple_to_template.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -666,31 +665,122 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv2/Lib/codecs.py" />
-    <entry file="file://$PROJECT_DIR$/tuple_sort.py">
+    <entry file="file://$PROJECT_DIR$/tuple_to_template_v4_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2422">
-          <caret line="41" column="7" lean-forward="false" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="616">
+          <caret line="301" column="0" lean-forward="false" selection-start-line="301" selection-start-column="0" selection-end-line="301" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tuple_to_template_v4_2.py">
+    <entry file="file://$PROJECT_DIR$/tuple_sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
-          <caret line="301" column="0" lean-forward="false" selection-start-line="301" selection-start-column="0" selection-end-line="301" selection-end-column="0" />
-          <folding>
-            <element signature="e#35#45#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="222">
+          <caret line="50" column="4" lean-forward="false" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tuple_to_template_v5_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="276" column="32" lean-forward="true" selection-start-line="276" selection-start-column="32" selection-end-line="276" selection-end-column="32" />
+        <state relative-caret-position="3001">
+          <caret line="257" column="0" lean-forward="true" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_emerge/table_overall.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_emerge/table_emerge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="193" column="0" lean-forward="false" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_emerge/table_emerged.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_emerge/table_source_overall.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_emerge/table_source_china.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_emerge/table_china.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_emerge/table_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="35" selection-end-column="26" />
+          <folding>
+            <element signature="e#35#45#0" expanded="true" />
+            <element signature="e#90#297#0" expanded="false" />
+            <element signature="e#321#842#0" expanded="false" />
+            <element signature="e#905#1548#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_emerge/table_emerge_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2575">
+          <caret line="467" column="0" lean-forward="false" selection-start-line="467" selection-start-column="0" selection-end-line="467" selection-end-column="0" />
+          <folding>
+            <element signature="e#206#2178#0" expanded="false" />
+            <element signature="e#2204#3059#0" expanded="false" />
+            <element signature="e#3124#9964#0" expanded="false" />
+            <element signature="e#3257#6520#0" expanded="false" />
+            <element signature="e#6557#9902#0" expanded="false" />
+            <element signature="e#10113#10695#0" expanded="false" />
+            <element signature="e#10764#11085#0" expanded="false" />
+            <element signature="e#11187#11394#0" expanded="false" />
+            <element signature="e#12494#16503#0" expanded="false" />
+            <element signature="e#12758#13703#0" expanded="false" />
+            <element signature="e#13745#14702#0" expanded="false" />
+            <element signature="e#14814#15493#0" expanded="false" />
+            <element signature="e#15636#16258#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table_emerge/table_emerge_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="432" column="34" lean-forward="true" selection-start-line="432" selection-start-column="34" selection-end-line="432" selection-end-column="34" />
+          <folding>
+            <element signature="e#203#2175#0" expanded="false" />
+            <element signature="e#2201#3056#0" expanded="false" />
+            <element signature="e#3121#9961#0" expanded="false" />
+            <element signature="e#10110#10692#0" expanded="false" />
+            <element signature="e#10761#11082#0" expanded="false" />
+            <element signature="e#11184#11391#0" expanded="false" />
+            <element signature="e#11453#12191#0" expanded="false" />
+            <element signature="e#12314#16144#0" expanded="false" />
+            <element signature="e#12578#13523#0" expanded="false" />
+            <element signature="e#13565#14522#0" expanded="false" />
+            <element signature="e#16216#16630#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

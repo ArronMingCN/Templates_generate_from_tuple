@@ -125,49 +125,136 @@ def template_generize(tuple_line,sentence_line,tuple_position):
     f_t_ans.write("\n")
     return sentence_line
 
+# def handle_tuple_element3(ele):
+#     #初步发现元组第三个元素具有类似 80 (NE,74.2%)的特征，将其分离
+#     #python3的四舍五入0.5算作0
+#     ele=ele.strip()
+#     cut_blank=re.compile(" ")
+#     cut_comma= re.compile(",")
+#     decimal_count = re.compile(u'\d+\.\d\d')#判断小数位数大于等于两位的情况
+#     cut_inside = re.compile("\d+\.\d*")
+#     results = []#返回两个整形
+#     count = 0
+#     for nums in cut_blank.split(ele):
+#         nums=nums.strip()
+#         if count==0: #处理括号外
+#             if(nums.isdecimal() == True):
+#                 results.append(int(round(float(nums))))
+#             else:
+#                 results.append(nums)
+#
+#         elif count ==1 : #处理括号里面
+#             nums=nums.strip()
+#             nums=nums[1:(len(nums)-1)]  #获得括号中的内容
+#             insides=cut_comma.split(nums)   #逗号切分
+#             for i in insides:
+#                 i = i.strip()
+#                 if '%' in i:
+#                     i=i[:len(i)-1]  #去掉百分号
+#                     i=str(int(round(float(i))))
+#                     results.append(i+"%")
+#                 elif i.isalpha()==True:  #纯字母情况
+#                     results.append(i)
+#                 else:#纯数字情况，判断小数位数
+#                     r= re.match(decimal_count, str(i))
+#                     if r:  #若存在，则保留一位小数
+#                         r = round(float(r.group()), 1)
+#                     else:
+#                         r= i
+#                     results.append(str(r))
+#         else:
+#             break
+#         count += 1
+#     return results
+
+# 针对表格值比较做的数值处理，初步确定表有一定的格式要求：* (*)
+# 其中每个*中的值一定要用逗号分开，对于更多其他符号没有处理。
+# 2018/1/26
+# 针对表格值比较做的数值处理，初步确定表有一定的格式要求：* (*)
+# 其中每个*中的值一定要用逗号分开，对于更多其他符号没有处理。
+# 2018/1/26
 def handle_tuple_element3(ele):
-    #初步发现元组第三个元素具有类似 80 (NE,74.2%)的特征，将其分离
     #python3的四舍五入0.5算作0
     ele=ele.strip()
     cut_blank=re.compile(" ")
     cut_comma= re.compile(",")
-    decimal_count = re.compile(u'\d+\.\d\d')#判断小数位数大于等于两位的情况
+    cut_parentheses = re.compile(r'\(') # 通过左圆括号切分外面的值
+    decimal_count = re.compile(u'\d+\.\d\d+')#判断小数位数大于等于两位的情况
     cut_inside = re.compile("\d+\.\d*")
-    results = []#返回两个整形
+    results = [] # return a list
     count = 0
-    for nums in cut_blank.split(ele):
+    for nums in cut_parentheses.split(ele):
         nums=nums.strip()
         if count==0: #处理括号外
-            if(nums.isdecimal() == True):
-                results.append(int(round(float(nums))))
-            else:
-                results.append(nums)
-
+            if nums == "":
+                count += 1
+                continue
+            for i in cut_comma.split(nums): #用逗号切分括号外的
+                i = i.strip()
+                if i == "":
+                    continue
+                if '%' in i: #当括号外出现百分数时，目前数值四舍五入为整数
+                    i = i[:len(i) - 1]
+                    i = str(int(round(float(i))))
+                    results.append(i + "%")
+                elif( is_float(i) == True): #若是小数则进行四舍五入
+                    results.append(int(round(float(i))))
+                else:
+                    results.append(i)
         elif count ==1 : #处理括号里面
             nums=nums.strip()
-            nums=nums[1:(len(nums)-1)]  #获得括号中的内容
+            nums=nums[0:(len(nums)-1)]  #获得括号中的内容
+            if nums == "":
+                count += 1
+                continue
             insides=cut_comma.split(nums)   #逗号切分
             for i in insides:
                 i = i.strip()
                 if '%' in i:
                     i=i[:len(i)-1]  #去掉百分号
-                    i=str(int(round(float(i))))
+                    i=str(int(round(float(i))))  #百分数目前确定数值部分为整数
                     results.append(i+"%")
                 elif i.isalpha()==True:  #纯字母情况
                     results.append(i)
-                else:#纯数字情况，判断小数位数
+                else:#浮点数情况，判断小数位数
+                    #注意，这是针对括号里的，前面括号外的皆保留整数，或字符串本身
                     r= re.match(decimal_count, str(i))
-                    if r:  #若存在，则保留一位小数
+                    if r:  #若存在大于等于两位小数的，则保留一位小数
                         r = round(float(r.group()), 1)
                     else:
-                        r= i
+                        r= i #否则不四舍五入
                     results.append(str(r))
         else:
             break
         count += 1
     return results
+def is_float(s):
+        '''
+        这个函数是用来判断传入的是否为小数,包括正小数和负小数三
+        :param s :传入一个字符串
+        :return: True or False
+        '''
+        s = str(s)
+        if s.isdigit():
+            return False
+        else:
+            if s.count('.') == 1:  # 判断小数点个数
+                sl = s.split('.')  # 分割字符串
+                left = sl[0]  # 小数点前面的
+                right = sl[1]  # 小数点后面的
+                if left.startswith('-') and left.count('-') == 1 and right.isdigit():
+                    lleft = left.split('-')[1]  ##按照负号分割然后取负号后面的数
+                    if lleft.isdigit():
+                        return True  # 负小数
+                    else:
+                        return False
+                elif left.isdigit() and right.isdigit():
+                    return True  # 正小数
 
-
+                else:
+                    return False
+            else:
+                return False
 
 def handle_tuple_row(key,sentence_line,level,tuple_position):
     sentence_line = sentence_line.replace("(", " ( ").replace(")", " ) ")
@@ -311,7 +398,6 @@ if __name__ == "__main__":
     # f_t_ans = open(t_ans, "w",encoding='utf-8')
     # open_text(t_s)
 
-    print(handle_tuple_element3("82.14"))
 
     print("Done")
 
